@@ -1,4 +1,4 @@
-# Adventure-Works-AW-Sales-Analysis
+# ADVENTURE-WORKS-AW-SALES-ANALYSIS
 
 ## PROJECT OVERVIEW 
 
