@@ -2,7 +2,7 @@
 
 ## PROJECT OVERVIEW 
 
-A sales Analysis of Adventure works(AW) company taking into consideration sales of products, product categories and sub-categories, products returned, product costs, discounts and customer data gining insights into sales revenue and profit, best performing products, best performing product category and sub-category, best performing regions, return rate and KPI achievables.
+A Sales Analysis of Adventure works(AW) company taking into consideration sales of products, product categories and sub-categories, products returned, product costs, discounts and customer data seeking to gain insights into product sales, revenue and profit, best performing products, best performing product category and sub-category, best performing regions, return rate and KPI achievables(Dataset File and Visualization attached).
 
 ### DATA SOURCES
 
