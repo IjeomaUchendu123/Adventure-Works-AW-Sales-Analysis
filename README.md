@@ -6,19 +6,19 @@ A Sales Analysis of Adventure works(AW) company taking into consideration sales 
 
 ### DATA SOURCES
 
-The Primary dataset used for this analysis is the "AW data set.csv" containing data of four different years which were appended together
+The Primary dataset used for this analysis is the "Adventure Works datasets" containing data across different units such as Customer information, poduct categories, Product subcategories, Returns data etc
 
 ### TOOLS
  - POWERBI - Data Cleaning [Download here](https://microsoft.com)
  - POWERBI - Data Analysis
  - PWER BI- Visualization
 
-### DATA CLEANING
-In the data cleaning phase, the following tasks were performed;
-1. Data Loading and Inspection
-2. thth
-3. hththt
-4. ththth
+### DATA PREPARATION
+In the data preparation phase, the following tasks were performed;
+1. Data Loading and Inspection.
+2. Data Modelling to create relationships between tables.
+3. Creation of New Measures to suit the purpose of our analysis.
+4. Creation of calculated columns to further suit the purpose of our analysis.
 
 ### EXPLORATORY DATA ANALYSIS
 
